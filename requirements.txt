@@ -1,0 +1,5 @@
+streamlit==1.16.0
+matplotlib==3.6.2
+beautifulsoup4==4.11.1
+networkx==2.8.8
+pyvis==0.3.1
